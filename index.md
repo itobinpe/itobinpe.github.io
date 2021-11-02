@@ -1,9 +1,5 @@
 ## Ian Tobinpe
-999 TestStreet ----------------------------- Github: github.com/test
-Winnipeg, MB ----------------------------- Phone: 999-9999
-A0B 1C2 ----------------------------------- Email: test@gmail.com
-
----------------
+----------------
 ### Education   
 
 * **University of Manitoba** --- _Sept. 2018- Present_
@@ -55,5 +51,6 @@ A0B 1C2 ----------------------------------- Email: test@gmail.com
 
 * **University of Manitoba**
 	* Dean's Honour List --- _Fall 2018_
+
 ----------------
 
