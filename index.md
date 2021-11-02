@@ -1,5 +1,4 @@
 ## Ian Tobinpe
-----------------
 ### Education   
 
 * **University of Manitoba** --- _Sept. 2018- Present_
