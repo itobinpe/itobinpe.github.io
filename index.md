@@ -1,8 +1,8 @@
 ### Education   
 
-* **University of Manitoba** --- _Sept. 2018- Present_
+* **University of Manitoba** --- _Sept. 2018 - Present_
 	* Bachelor of Science in Computer Science (Honours)
-* **Daniel McIntyre Collegiate Institute** --- _Sept. 2015-Jun. 2018_
+* **Daniel McIntyre Collegiate Institute** --- _Sept. 2015 - Jun. 2018_
 
 ### Experience
 
@@ -17,10 +17,10 @@
 
 ### Projects
 
-* **Chat Bot** --- _Dec. 2019- Present_
+* **Chat Bot** --- _Dec. 2019 - Present_
 	* _Javascript_
 	* A Discord chat bot that responds to specific commands which was implemented using different APIs.
-* **Games and Applications** --- _2016-2017_
+* **Games and Applications** --- _2016 - 2017_
 	* _VB6_
 	* Different recreations of popular games and applications posted on GitHub.
 * **FutureTap** - Software Engineering I --- _Jun. 2020 - Aug. 2020_
