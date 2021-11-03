@@ -58,6 +58,7 @@ Jekyll is a static site generator which makes it easy to format and customize yo
 3. Click the "Choose a theme" button and it should redirect you to a page where you can select a theme for your site.
 4. Once you have selected your theme, click on the green "Select theme" box.
 5. The site should now be published as mentioned in the green box. Click on the link to go to your site.
+![Alt Text](https://github.com/itobinpe/itobinpe.github.io/blob/main/githubpageslink.gif)
 
 ### **Conclusion**
 It may take some time to update, but your Markdown formatted resume should be visible on GitHub Pages with your choice of a Jekyll theme.
