@@ -66,9 +66,11 @@ It may take some time to update, but your Markdown formatted resume should be vi
 
 ## Additional Resources
 - What is [Markdown](https://www.markdownguide.org/getting-started/)?
+- A simple [tutorial](https://www.markdowntutorial.com/) for Markdown.
 - A [tutorial](https://guides.github.com/features/mastering-markdown/) on GitHub Flavoured Markdown.
 - The [documentation](https://jekyllrb.com/docs/) to install Jekyll.
 - The [documentation](https://jekyllrb.com/docs/configuration/) to configure Jekyll (`_config.yml`).
+- Andrew Etter's [book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), Modern Technical Writing.
 
 ## Frequently Asked Questions
 
